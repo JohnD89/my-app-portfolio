@@ -1,0 +1,7 @@
+Lesson 0 project submitted by John Donahue
+john.donahue89@gmail.com
+
+I referenced the following video on Toasts:
+YouTube - John Tapley
+Learn Android Studio: (16) How to display messages using Toasts.
+https://www.youtube.com/watch?v=GSdRWEqM44k
